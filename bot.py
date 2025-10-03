@@ -1,3 +1,5 @@
+python bot.py
+
 import os
 import sqlite3
 import asyncio
